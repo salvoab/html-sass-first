@@ -1,3 +1,12 @@
-body{
-    background-color: green;
+$title_color: #079c07;
+$text_color: #808080;
+$p_font_size: 14px; 
+
+h2, h3{
+    color: $title_color;
+}
+
+p{
+    color: $text_color;
+    font-size: $p_font_size;
 }

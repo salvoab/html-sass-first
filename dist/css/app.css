@@ -1,3 +1,8 @@
-body {
-  background-color: green;
+h2, h3 {
+  color: #079c07;
+}
+
+p {
+  color: #808080;
+  font-size: 14px;
 }

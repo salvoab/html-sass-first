@@ -1,0 +1,1 @@
+console.log("Primo script compilato usando Laravel mix");
